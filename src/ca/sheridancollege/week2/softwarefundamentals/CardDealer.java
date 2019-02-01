@@ -7,7 +7,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
  * The class where we create Cards
- * @author megha, 2019; Ryan Henry, 2019
+ * @author megha, 2019;
  */
 public class CardDealer 
 {
