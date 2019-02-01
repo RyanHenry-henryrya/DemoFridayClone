@@ -16,4 +16,6 @@ public class CardDealer
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
     }
+    
+    public static void uw0t(){System.out.println("uw0tm8");}
 }
